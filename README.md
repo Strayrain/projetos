@@ -7,12 +7,3 @@ não tinha vagas sobrando mais fou fazer e quando estiver em casa vou estudar ma
 basiacamente é isso)
 
 
-hoje eu aprendi a criar arquivos em HTML vou dar um exemplo
-
-´´´
-<html>
-  
-  <h1>Meu primeiro arquivo HTML</h1>
-  
-  </html>
-  ´´´
